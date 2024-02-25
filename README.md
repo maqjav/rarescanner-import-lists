@@ -5,8 +5,8 @@ You can [download](https://legacy.curseforge.com/wow/addons/rarescanner) the Rar
 * [Here](https://legacy.curseforge.com/wow/addons/rarescanner/pages/custom-npcs) you can find the instructions to import lists of custom NPCs in the addon RareScanner.
 
 Available lists:
-* **Alliance Enemy Elites**: Contains outdoor elite NPCs for WoW Classic that will attack alliance players.
-* **Horde Enemy Elites**: Contains outdoor elite NPCs for WoW Classic that will attack horde players.
+* **Alliance Enemy Elites.txt**: Contains outdoor elite NPCs for WoW Classic that will attack alliance players.
+* **Horde Enemy Elites.txt**: Contains outdoor elite NPCs for WoW Classic that will attack horde players.
 
 Important:
 * Right now the game takes a while to paste long lists into the addon, so don't worry if the game freezes when you paste the list. Wait until it responds (I'm looking for a solution but in the meantime this is what we got).
