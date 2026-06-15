@@ -7,6 +7,7 @@ You can [download](https://legacy.curseforge.com/wow/addons/rarescanner) the Rar
 Available lists:
 * **Alliance Enemy Elites.txt**: Contains outdoor elite NPCs for WoW Classic that will attack alliance players.
 * **Horde Enemy Elites.txt**: Contains outdoor elite NPCs for WoW Classic that will attack horde players.
+* **Alliance Enemy PVP NPCs.txt**: Contains outdoor PVP NPCs for WoW Classic that will attack alliance players.
 
 Important:
 * Right now the game takes a while to paste long lists into the addon, so don't worry if the game freezes when you paste the list. Wait until it responds (I'm looking for a solution but in the meantime this is what we got).
